@@ -1,10 +1,10 @@
-# ETH-Hot-Wallet 
+# Dinar-Wallet 
 
 ## Ethereum wallet with ERC20 support - A web wallet 
 
 ![eth-hot-wallet ethereum wallet preview](https://paullaux.github.io/eth-hot-wallet/docs/images/eth-hot-wallet-ethereum.PNG)
 
-https://eth-hot-wallet.com
+https://Dinar-wallet.com
 
 ### Technical review article: [How to build an Ethereum Wallet web app (Medium)](https://medium.freecodecamp.org/how-to-build-an-ethereum-wallet-web-app-ac77dcaac573)
 

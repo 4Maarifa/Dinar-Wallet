@@ -30,7 +30,7 @@ function PageFooter() {
     <Footer>
       <Row>
         <Col sm={12} xs={24}>
-          {'ETH Hot Wallet - '}
+          {'Dinar Wallet - '}
           <a href={github} target="_blank" rel="noopener">
             Ethereum Wallet with ERC20 support (GitHub)
           </a><br />

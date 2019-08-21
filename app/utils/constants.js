@@ -33,8 +33,8 @@ export const defaultNetwork = 'Ropsten Testnet';
 export const localStorageKey = 'ks';
 
 // addresses:
-export const website = 'https://eth-hot-wallet.com';
-export const github = 'https://github.com/PaulLaux/eth-hot-wallet';
+export const website = 'https://Dinar-wallet.com';
+export const github = 'https://github.com/4Maarifa/Dinar-Wallet';
 
 // APIs:
 // export const checkFaucetAddress = 'http://localhost:3000/status';
